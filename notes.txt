@@ -1,0 +1,7 @@
+## Phase: 01
+------------------------------------
+# Time Stamp: 21.11.2026 3:30 Am
+
+Plan:
+Version_01: I am planning to design the page on figma and develop it using Good Old HTML, CSS & JS.
+
